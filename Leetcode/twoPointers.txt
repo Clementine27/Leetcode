@@ -1,0 +1,24 @@
+when to use: 
+- find els that fit a cond
+- linear datatype 
+- sorting possible 
+
+variants: 
+- converging 
+- same direction  
+    - sliding window 
+
+- fast and slow pointers 
+
+
+classic approach: 
+- sort 
+- move left if too small 
+- move right if too big compared to target
+
+three pointers variant 
+- sort 
+- fix 1 element: start/end depending on problem 
+- move right if too big
+- move left if too small 
+- if condition is met, check to see if you can clear a whole range if so count++
