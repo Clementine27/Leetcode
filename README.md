@@ -7,6 +7,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Clementine27/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Clementine27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Clementine27/Leetcode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
@@ -48,8 +49,10 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Clementine27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Clementine27/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Clementine27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Clementine27/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
